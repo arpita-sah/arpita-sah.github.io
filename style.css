@@ -44,7 +44,7 @@ nav ul li a {
 }
 .hero img {
     width: 150px;
-    border-radius: 50%;
+    border-radius: 0%;
     margin-bottom: 15px;
 }
 .hero-links a {
@@ -107,4 +107,5 @@ footer {
     text-align: center;
     padding: 15px;
 }
+
     
